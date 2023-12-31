@@ -1,0 +1,4 @@
+aiokafka
+fastapi
+python-dotenv
+uvicorn
